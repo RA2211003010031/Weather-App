@@ -6,4 +6,4 @@ A instant weather checking app using
 - CSS 
 - JS. 
 
-# We'll be using RAPID Api for getting the weather details of a particular area.
+## We'll be using RAPID Api for getting the weather details of a particular area.
